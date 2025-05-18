@@ -84,6 +84,3 @@ Thanks to Kaggle for the dataset, and all the frontline workers preventing wildf
 
 ## 📄 License
 MIT License – feel free to use and contribute
-## 🔗 Connect
-Built with 🔥 by Dev singh
-📧 mahgalcoco@gmail.com
